@@ -1,12 +1,24 @@
 Making the Walls: 
 Firstly, we added a cube into the scene and used the scaling transformation to make it into a wall. Then we duplicated said wall and placed them as the three walls that are adjacent to the door/opening.
 
+Adding Cube and Scaling it:
+![image](https://github.com/user-attachments/assets/5f415dd1-1c42-4771-9004-6937355e6456)
+![image](https://github.com/user-attachments/assets/035e04b6-1b93-4217-b8a7-a3ebf788f178)
+![image](https://github.com/user-attachments/assets/41778f5f-0cb3-4275-b907-8bdb9d56f2cb)
+
+
+Putting them together:
+
+
 ![image](https://github.com/user-attachments/assets/209ee3b6-c525-4442-9997-55a3e36de45e)
 
 
 Making the entrance:
 Then, we placed a new cube into the scene and used the coordinates in the inspect tab to make it have the same height and width as the walls, but much shorter in length.
 Then, we duplicated that cube and placed them next to each wall respectively with a space in between. For the top of the doorframe, we added a cube and placed it in between them.
+
+![image](https://github.com/user-attachments/assets/d52c0a39-6671-4132-b170-5ff7b0998b43)
+
 
 ![image](https://github.com/user-attachments/assets/2e7afd25-c14c-4768-96e0-7e66a2a1a435)
 
