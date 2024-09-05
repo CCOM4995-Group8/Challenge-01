@@ -1,5 +1,5 @@
 Making the Walls: 
-Firstly, we added a cube into the scene and used the scaling transformation to make it into a wall. Then we duplicated said wall and placed them as the three walls that are adjacent to the door/opening.
+Firstly, we added a cube into the scene and used the scaling transformation tool at the top left of the screen to make it into a wall. Then we duplicated said wall and placed them as the three walls that are adjacent to the door/opening.
 
 
 ![image](https://github.com/user-attachments/assets/91e78968-78be-4148-851c-6caba071dfb5)
