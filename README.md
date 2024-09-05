@@ -6,6 +6,10 @@ Firstly, we added a cube into the scene and used the scaling transformation to m
 ![image](https://github.com/user-attachments/assets/035e04b6-1b93-4217-b8a7-a3ebf788f178)
 ![image](https://github.com/user-attachments/assets/41778f5f-0cb3-4275-b907-8bdb9d56f2cb)
 
+After scaling the cube, I right-clicked it and then clicked 'duplicate' until I had a total of three walls.
+
+![image](https://github.com/user-attachments/assets/4e89c9f2-d763-4e85-b8a1-eb7efd0f6dfa)
+
 
 Putting them together:
 
