@@ -32,6 +32,9 @@ Lastly, for the roof, we placed another cube and used the scaling tool to make i
 Then, once in the right position, we used the rotating tool to make it slant in the correct direction.
 Once it was slanted at the right angle, we duplicated the cube to make the other half of the roof and simply put them together. 
 
+![image](https://github.com/user-attachments/assets/73e130bf-1e9e-427c-ab8c-e1a2de3c1c73)
+
+
 ![image](https://github.com/user-attachments/assets/f3896d6e-d9d5-42e3-b967-251997fb8ee7)
 
 Final Product: 
